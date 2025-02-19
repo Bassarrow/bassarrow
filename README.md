@@ -10,5 +10,5 @@
 ### 🇫🇷moyen de me soutenir 
 <div align="left">
   <a href="https://fr.tipeee.com/bass-arrow/hosted" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=tipee&logo=tipee&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tipeee"  />
+    <img src="https://cdnlogo.com/logo/tipeee_456.html" height="35" alt="tipeee"  />
 
