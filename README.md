@@ -1,4 +1,4 @@
-## hello i am bass arrow <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+## hello i am bass arrow 
 
 
 
