@@ -1,8 +1,9 @@
-<h1>Hello , i am Bass Arrow</h3>
+<>
 
-## I am beginer devlopers
+<h1>Hello , i am Bass Arrow</h1>
+I am beginer devlopers </h2>
 
-### My devlopers skill<img src="https://media2.giphy.com/media/ua7vVw9awZKWwLSYpW/giphy.gif" width="250">
+### My devlopers skill <img src="https://media2.giphy.com/media/ua7vVw9awZKWwLSYpW/giphy.gif" heith="20" width="50">
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat-square&logo=Electron&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 
