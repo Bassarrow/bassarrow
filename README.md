@@ -12,6 +12,8 @@
 
 ### My skill 
 ![easyEDA](https://img.shields.io/badge/easyEDA-3670A0?style=flat-square&logo=easyEDA&logoColor=33b5ff)![blender](https://img.shields.io/badge/blender-ffffff?style=flat-square&logo=blender&logoColor=dd844e)![discord-bot](https://img.shields.io/badge/bot-b5d6fa?style=flat-square&logo=discord&logoColor=589ee9)![discord-selfbot](https://img.shields.io/badge/selfbot-3670A0?style=flat-square&logo=discord&logoColor=33b5ff)
+### my codetime
+[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=flat&color=3&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D34019)](https://codetime.dev)
 
 
 
